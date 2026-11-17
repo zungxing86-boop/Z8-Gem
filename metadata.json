@@ -1,0 +1,6 @@
+{
+  "name": "معلم پراسپکت ۲",
+  "description": "نرم‌افزار آموزشی تعاملی و معلم هوشمند کتاب انگلیسی پایه هشتم (Prospect 2) ویژه تلویزیون اندرویدی (Android TV) و تبلت/موبایل با قابلیت استفاده آفلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

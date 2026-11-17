@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">معلم پراسپکت ۲</string>
+    <string name="app_subtitle">آموزش هوشمند انگلیسی پایه هشتم — نسخه تلویزیون و موبایل</string>
+    <string name="nav_home">خانه و درس‌ها</string>
+    <string name="nav_dictionary">واژگان هوشمند</string>
+    <string name="nav_pronunciation">تلفظ و خواندن</string>
+    <string name="nav_tutor">معلم هوشمند</string>
+    <string name="nav_progress">گزارش و پیشرفت</string>
+    <string name="continue_learning">ادامه از آخرین مرحله</string>
+    <string name="target_audience_badge">مخاطب: دانش‌آموزان پایه هشتم (متوسطه اول)</string>
+</resources>
